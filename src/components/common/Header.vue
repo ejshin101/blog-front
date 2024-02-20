@@ -4,7 +4,7 @@
       <div class="header__menu">
         <div class="header__logo">
             <router-link :to="{name:'Home'}">
-              <img src="../../../public/logo2.png" alt="logo">
+              <img src="/logo2.png" alt="logo">
             </router-link>
         </div>
 <!--        <div class="col&#45;&#45;lg-2">-->

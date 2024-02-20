@@ -4,7 +4,7 @@
       <div class="comment">
         <a href="#" class="comment__photo">
           <figure class="comment__photo-wrapper">
-            <img src="../../../public/logo2.png" alt="avatar" class="comment__photo-img">
+            <img src="/logo2.png" alt="avatar" class="comment__photo-img">
           </figure>
         </a>
         <div class="comment__content">
